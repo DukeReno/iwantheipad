@@ -1,0 +1,6757 @@
+{
+    "Claude Cohen-Tannoudji": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "1997"
+        }
+    },
+    "Albert Camus": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1957"
+        }
+    },
+    "César Milstein": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1984"
+        }
+    },
+    "Adolfo Pérez Esquivel": {
+        "country": "Argentina",
+        "prize": {
+            "category": "Peace",
+            "years": "1980"
+        }
+    },
+    "Luis Federico Leloir": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1970"
+        }
+    },
+    "Bernardo Houssay": {
+        "country": "Argentina",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1947"
+        }
+    },
+    "Carlos Saavedra Lamas": {
+        "country": "Argentina",
+        "prize": {
+            "category": "Peace",
+            "years": "1936"
+        }
+    },
+    "Ardem Patapoutian": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2021"
+        }
+    },
+    "Brian Schmidt": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physics",
+            "years": "2011"
+        }
+    },
+    "Elizabeth Blackburn": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2009"
+        }
+    },
+    "Barry Marshall": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2005"
+        }
+    },
+    "J. Robin Warren": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2005"
+        }
+    },
+    "Peter C. Doherty": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1996"
+        }
+    },
+    "Rolf Zinkernagel": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1996"
+        }
+    },
+    "John Cornforth": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1975"
+        }
+    },
+    "Patrick White": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "1973"
+        }
+    },
+    "Aleksandr M. Prokhorov": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physics",
+            "years": "1964"
+        }
+    },
+    "John Carew Eccles": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1963"
+        }
+    },
+    "Sir Frank Macfarlane Burnet": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1960"
+        }
+    },
+    "Howard Florey": {
+        "country": "Australia",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1945"
+        }
+    },
+    "William Lawrence Bragg": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1915"
+        }
+    },
+    "William Henry Bragg": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1915"
+        }
+    },
+    "Ferenc Krausz": {
+        "country": "Hungary",
+        "prize": {
+            "category": "Physics",
+            "years": "2023"
+        }
+    },
+    "Anton Zeilinger": {
+        "country": "Austria",
+        "prize": {
+            "category": "Physics",
+            "years": "2022"
+        }
+    },
+    "Peter Handke": {
+        "country": "Austria",
+        "prize": {
+            "category": "Literature",
+            "years": "2019"
+        }
+    },
+    "Martin Karplus": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2013"
+        }
+    },
+    "Elfriede Jelinek": {
+        "country": "Austria",
+        "prize": {
+            "category": "Literature",
+            "years": "2004"
+        }
+    },
+    "Eric Kandel": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2000"
+        }
+    },
+    "Walter Kohn": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1998"
+        }
+    },
+    "Friedrich Hayek": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Economics",
+            "years": "1974"
+        }
+    },
+    "Konrad Lorenz": {
+        "country": "Austria",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1973"
+        }
+    },
+    "Karl von Frisch": {
+        "country": "Austria",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1973"
+        }
+    },
+    "Max Perutz": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1962"
+        }
+    },
+    "Carl Ferdinand Cori": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1947"
+        }
+    },
+    "Gerty Cori": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1947"
+        }
+    },
+    "Wolfgang Pauli": {
+        "country": "Austria",
+        "prize": {
+            "category": "Physics",
+            "years": "1945"
+        }
+    },
+    "Richard Kuhn": {
+        "country": "Austria",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1938"
+        }
+    },
+    "Otto Loewi": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1936"
+        }
+    },
+    "Victor Francis Hess": {
+        "country": "Austria",
+        "prize": {
+            "category": "Physics",
+            "years": "1936"
+        }
+    },
+    "Erwin Schrödinger": {
+        "country": "Austria",
+        "prize": {
+            "category": "Physics",
+            "years": "1933"
+        }
+    },
+    "Karl Landsteiner": {
+        "country": "Austria",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1930"
+        }
+    },
+    "Julius Wagner-Jauregg": {
+        "country": "Austria",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1927"
+        }
+    },
+    "Richard Adolf Zsigmondy": {
+        "country": "Hungary",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1925"
+        }
+    },
+    "Róbert Bárány": {
+        "country": "Hungary",
+        "prize": {
+            "category": "Medicine",
+            "years": "1914"
+        }
+    },
+    "Alfred Hermann Fried": {
+        "country": "Austria",
+        "prize": {
+            "category": "Peace",
+            "years": "1911"
+        }
+    },
+    "Muhammad Yunus": {
+        "country": "Bangladesh",
+        "prize": {
+            "category": "Peace",
+            "years": "2006"
+        }
+    },
+    "Ales Bialiatski": {
+        "country": "Belarus",
+        "prize": {
+            "category": "Peace",
+            "years": "2022"
+        }
+    },
+    "Svetlana Alexievich": {
+        "country": "Ukraine",
+        "prize": {
+            "category": "Literature",
+            "years": "2015"
+        }
+    },
+    "Zhores Alferov": {
+        "country": "Belarus",
+        "prize": {
+            "category": "Physics",
+            "years": "2000"
+        }
+    },
+    "François Englert": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Physics",
+            "years": "2013"
+        }
+    },
+    "Ilya Prigogine": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1977"
+        }
+    },
+    "Christian de Duve": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1974"
+        }
+    },
+    "Albert Claude": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1974"
+        }
+    },
+    "Dominique Pire": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Peace",
+            "years": "1958"
+        }
+    },
+    "Corneille Heymans": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1938"
+        }
+    },
+    "Jules Bordet": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1919"
+        }
+    },
+    "Henri La Fontaine": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Peace",
+            "years": "1913"
+        }
+    },
+    "Maurice Maeterlinck": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Literature",
+            "years": "1911"
+        }
+    },
+    "Auguste Beernaert": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Peace",
+            "years": "1909"
+        }
+    },
+    "Institut de Droit International": {
+        "country": "Belgium",
+        "prize": {
+            "category": "Peace",
+            "years": "1904"
+        }
+    },
+    "Peter Brian Medawar": {
+        "country": "Brazil",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1960"
+        }
+    },
+    "Elias Canetti": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "1981"
+        }
+    },
+    "David Card": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2021"
+        }
+    },
+    "Jim Peebles": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2019"
+        }
+    },
+    "Donna Strickland": {
+        "country": "Canada",
+        "prize": {
+            "category": "Physics",
+            "years": "2018"
+        }
+    },
+    "Arthur B. McDonald": {
+        "country": "Canada",
+        "prize": {
+            "category": "Physics",
+            "years": "2015"
+        }
+    },
+    "Alice Munro": {
+        "country": "Canada",
+        "prize": {
+            "category": "Literature",
+            "years": "2013"
+        }
+    },
+    "Ralph M. Steinman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2011"
+        }
+    },
+    "Willard S. Boyle": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2009"
+        }
+    },
+    "Jack W. Szostak": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2009"
+        }
+    },
+    "Robert Mundell": {
+        "country": "Canada",
+        "prize": {
+            "category": "Economics",
+            "years": "1999"
+        }
+    },
+    "Myron Scholes": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1997"
+        }
+    },
+    "William Vickrey": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1996"
+        }
+    },
+    "Pugwash Conferences on Science and World Affairs": {
+        "country": "Canada",
+        "prize": {
+            "category": "Peace",
+            "years": "1995"
+        }
+    },
+    "Bertram Brockhouse": {
+        "country": "Canada",
+        "prize": {
+            "category": "Physics",
+            "years": "1994"
+        }
+    },
+    "Michael Smith": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1993"
+        }
+    },
+    "Rudolph A. Marcus": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1992"
+        }
+    },
+    "Richard E. Taylor": {
+        "country": "Canada",
+        "prize": {
+            "category": "Physics",
+            "years": "1990"
+        }
+    },
+    "Sidney Altman": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1989"
+        }
+    },
+    "John Polanyi": {
+        "country": "Hungary",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1986"
+        }
+    },
+    "Henry Taube": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1983"
+        }
+    },
+    "David H. Hubel": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1981"
+        }
+    },
+    "Saul Bellow": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1976"
+        }
+    },
+    "Gerhard Herzberg": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1971"
+        }
+    },
+    "Charles B. Huggins": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1966"
+        }
+    },
+    "Lester B. Pearson": {
+        "country": "Canada",
+        "prize": {
+            "category": "Peace",
+            "years": "1957"
+        }
+    },
+    "William Giauque": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1949"
+        }
+    },
+    "Frederick Banting": {
+        "country": "Canada",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1923"
+        }
+    },
+    "John Macleod": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1923"
+        }
+    },
+    "Pablo Neruda": {
+        "country": "Chile",
+        "prize": {
+            "category": "Literature",
+            "years": "1971"
+        }
+    },
+    "Gabriela Mistral": {
+        "country": "Chile",
+        "prize": {
+            "category": "Literature",
+            "years": "1945"
+        }
+    },
+    "Tu Youyou": {
+        "country": "China (People's Republic of China)",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2015"
+        }
+    },
+    "Mo Yan": {
+        "country": "China (People's Republic of China)",
+        "prize": {
+            "category": "Literature",
+            "years": "2012"
+        }
+    },
+    "Liu Xiaobo": {
+        "country": "China (People's Republic of China)",
+        "prize": {
+            "category": "Peace",
+            "years": "2010"
+        }
+    },
+    "Charles K. Kao": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2009"
+        }
+    },
+    "Gao Xingjian": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "2000"
+        }
+    },
+    "Daniel C. Tsui": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1998"
+        }
+    },
+    "Chen-Ning Yang": {
+        "country": "Taiwan (Republic of China)",
+        "prize": {
+            "category": "Physics",
+            "years": "1957"
+        }
+    },
+    "Tsung-Dao Lee": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1957"
+        }
+    },
+    "Juan Manuel Santos Calderón": {
+        "country": "Colombia",
+        "prize": {
+            "category": "Peace",
+            "years": "2016"
+        }
+    },
+    "Gabriel García Márquez": {
+        "country": "Colombia",
+        "prize": {
+            "category": "Literature",
+            "years": "1982"
+        }
+    },
+    "Denis Mukwege": {
+        "country": "Colombia",
+        "prize": {
+            "category": "Peace",
+            "years": "2018"
+        }
+    },
+    "Óscar Arias Sánchez": {
+        "country": "Costa Rica",
+        "prize": {
+            "category": "Peace",
+            "years": "1987"
+        }
+    },
+    "Leopold Ružička": {
+        "country": "Yugoslavia",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1939"
+        }
+    },
+    "Christopher A. Pissarides": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Economics",
+            "years": "2010"
+        }
+    },
+    "Morten P. Meldal": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2022"
+        }
+    },
+    "Jens Christian Skou": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1997"
+        }
+    },
+    "Niels Kaj Jerne": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1984"
+        }
+    },
+    "Aage Bohr": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Physics",
+            "years": "1975"
+        }
+    },
+    "Ben Roy Mottelson": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1975"
+        }
+    },
+    "Johannes V. Jensen": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Literature",
+            "years": "1944"
+        }
+    },
+    "Henrik Dam": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1943"
+        }
+    },
+    "Johannes Fibiger": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1926"
+        }
+    },
+    "Niels Bohr": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Physics",
+            "years": "1922"
+        }
+    },
+    "August Krogh": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1920"
+        }
+    },
+    "Karl Adolph Gjellerup": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Literature",
+            "years": "1917"
+        }
+    },
+    "Henrik Pontoppidan": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Literature",
+            "years": "1917"
+        }
+    },
+    "Fredrik Bajer": {
+        "country": "Denmark",
+        "prize": {
+            "category": "Peace",
+            "years": "1908"
+        }
+    },
+    "Niels Ryberg Finsen": {
+        "country": "Faroe Islands",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1903"
+        }
+    },
+    "Carlos Filipe Ximenes Belo": {
+        "country": "East Timor",
+        "prize": {
+            "category": "Peace",
+            "years": "1996"
+        }
+    },
+    "José Ramos-Horta": {
+        "country": "East Timor",
+        "prize": {
+            "category": "Peace",
+            "years": "1996"
+        }
+    },
+    "Mohamed ElBaradei": {
+        "country": "Egypt",
+        "prize": {
+            "category": "Peace",
+            "years": "2005"
+        }
+    },
+    "Ahmed Zewail": {
+        "country": "Egypt",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1999"
+        }
+    },
+    "Naguib Mahfouz": {
+        "country": "Egypt",
+        "prize": {
+            "category": "Literature",
+            "years": "1988"
+        }
+    },
+    "Anwar Sadat": {
+        "country": "Egypt",
+        "prize": {
+            "category": "Peace",
+            "years": "1978"
+        }
+    },
+    "Abiy Ahmed Ali": {
+        "country": "Ethiopia",
+        "prize": {
+            "category": "Peace",
+            "years": "2019"
+        }
+    },
+    "Bengt R. Holmström": {
+        "country": "Finland",
+        "prize": {
+            "category": "Economics",
+            "years": "2016"
+        }
+    },
+    "Martti Ahtisaari": {
+        "country": "Finland",
+        "prize": {
+            "category": "Peace",
+            "years": "2008"
+        }
+    },
+    "Moungi Bawendi": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2023"
+        }
+    },
+    "Pierre Agostini": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2023"
+        }
+    },
+    "Anne L'Huillier": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physics",
+            "years": "2023"
+        }
+    },
+    "Annie Ernaux": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "2022"
+        }
+    },
+    "Alain Aspect": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "2022"
+        }
+    },
+    "Emmanuelle Charpentier": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2020"
+        }
+    },
+    "Esther Duflo": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2019"
+        }
+    },
+    "Gérard Mourou": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "2018"
+        }
+    },
+    "Jean-Pierre Sauvage": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2016"
+        }
+    },
+    "Jean Tirole": {
+        "country": "France",
+        "prize": {
+            "category": "Economics",
+            "years": "2014"
+        }
+    },
+    "Patrick Modiano": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "2014"
+        }
+    },
+    "Jules A. Hoffmann": {
+        "country": "Luxembourg",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2011"
+        }
+    },
+    "J. M. G. Le Clézio": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "2008"
+        }
+    },
+    "Luc Montagnier": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2008"
+        }
+    },
+    "Françoise Barré-Sinoussi": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2008"
+        }
+    },
+    "Albert Fert": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "2007"
+        }
+    },
+    "Yves Chauvin": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2005"
+        }
+    },
+    "Médecins Sans Frontières": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1999"
+        }
+    },
+    "Pierre-Gilles de Gennes": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "1991"
+        }
+    },
+    "Maurice Allais": {
+        "country": "France",
+        "prize": {
+            "category": "Economics",
+            "years": "1988"
+        }
+    },
+    "Jean-Marie Lehn": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1987"
+        }
+    },
+    "Claude Simon": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1985"
+        }
+    },
+    "Gérard Debreu": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1983"
+        }
+    },
+    "Jean Dausset": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1980"
+        }
+    },
+    "Roger Guillemin": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1977"
+        }
+    },
+    "Seán MacBride": {
+        "country": "Ireland",
+        "prize": {
+            "category": "Peace",
+            "years": "1974"
+        }
+    },
+    "Louis Néel": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "1970"
+        }
+    },
+    "René Cassin": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1968"
+        }
+    },
+    "Alfred Kastler": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "1966"
+        }
+    },
+    "François Jacob": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1965"
+        }
+    },
+    "Jacques Monod": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1965"
+        }
+    },
+    "André Lwoff": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1965"
+        }
+    },
+    "Jean-Paul Sartre": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1964 (declined the prize)"
+        }
+    },
+    "Saint-John Perse": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1960"
+        }
+    },
+    "André Frédéric Cournand": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1956"
+        }
+    },
+    "François Mauriac": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1952"
+        }
+    },
+    "Léon Jouhaux": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1951"
+        }
+    },
+    "André Gide": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1947"
+        }
+    },
+    "Roger Martin du Gard": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1937"
+        }
+    },
+    "Frédéric Joliot-Curie": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1935"
+        }
+    },
+    "Irène Joliot-Curie": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1935"
+        }
+    },
+    "Ivan Bunin": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Literature",
+            "years": "1933"
+        }
+    },
+    "Louis de Broglie": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "1929"
+        }
+    },
+    "Charles Nicolle": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1928"
+        }
+    },
+    "Henri Bergson": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1927"
+        }
+    },
+    "Ferdinand Buisson": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1927"
+        }
+    },
+    "Aristide Briand": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1926"
+        }
+    },
+    "Jean Baptiste Perrin": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "1926"
+        }
+    },
+    "Anatole France": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1921"
+        }
+    },
+    "Léon Bourgeois": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1920"
+        }
+    },
+    "Romain Rolland": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1915"
+        }
+    },
+    "Alfred Werner": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1913"
+        }
+    },
+    "Charles Richet": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1913"
+        }
+    },
+    "Alexis Carrel": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1912"
+        }
+    },
+    "Paul Sabatier": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1912"
+        }
+    },
+    "Victor Grignard": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1912"
+        }
+    },
+    "Marie Curie": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1911"
+        }
+    },
+    "Paul-Henri-Benjamin d'Estournelles de Constant": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1909"
+        }
+    },
+    "Gabriel Lippmann": {
+        "country": "Luxembourg",
+        "prize": {
+            "category": "Physics",
+            "years": "1908"
+        }
+    },
+    "Charles Louis Alphonse Laveran": {
+        "country": "France",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1907"
+        }
+    },
+    "Louis Renault": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1907"
+        }
+    },
+    "Henri Moissan": {
+        "country": "France",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1906"
+        }
+    },
+    "Frédéric Mistral": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1904"
+        }
+    },
+    "Antoine Henri Becquerel": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "1903"
+        }
+    },
+    "Pierre Curie": {
+        "country": "France",
+        "prize": {
+            "category": "Physics",
+            "years": "1903"
+        }
+    },
+    "Henry Dunant": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Peace",
+            "years": "1901"
+        }
+    },
+    "Frédéric Passy": {
+        "country": "France",
+        "prize": {
+            "category": "Peace",
+            "years": "1901"
+        }
+    },
+    "Sully Prudhomme": {
+        "country": "France",
+        "prize": {
+            "category": "Literature",
+            "years": "1901"
+        }
+    },
+    "Svante Pääbo": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2022"
+        }
+    },
+    "Benjamin List": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2021"
+        }
+    },
+    "Klaus Hasselmann": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "2021"
+        }
+    },
+    "Reinhard Genzel": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "2020"
+        }
+    },
+    "John B. Goodenough": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2019"
+        }
+    },
+    "Joachim Frank": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2017"
+        }
+    },
+    "Rainer Weiss": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2017"
+        }
+    },
+    "Stefan Hell": {
+        "country": "Romania",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2014"
+        }
+    },
+    "Thomas C. Südhof": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2013"
+        }
+    },
+    "Herta Müller": {
+        "country": "Romania",
+        "prize": {
+            "category": "Literature",
+            "years": "2009"
+        }
+    },
+    "Harald zur Hausen": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2008"
+        }
+    },
+    "Gerhard Ertl": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2007"
+        }
+    },
+    "Theodor W. Hänsch": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "2005"
+        }
+    },
+    "Wolfgang Ketterle": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "2001"
+        }
+    },
+    "Herbert Kroemer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "2000"
+        }
+    },
+    "Günter Blobel": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1999"
+        }
+    },
+    "Horst L. Störmer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1998"
+        }
+    },
+    "Paul J. Crutzen": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1995"
+        }
+    },
+    "Christiane Nüsslein-Volhard": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1995"
+        }
+    },
+    "Reinhard Selten": {
+        "country": "Germany",
+        "prize": {
+            "category": "Economics",
+            "years": "1994"
+        }
+    },
+    "Bert Sakmann": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1991"
+        }
+    },
+    "Erwin Neher": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1991"
+        }
+    },
+    "Hans G. Dehmelt": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1989"
+        }
+    },
+    "Wolfgang Paul": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1989"
+        }
+    },
+    "Johann Deisenhofer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1988"
+        }
+    },
+    "Robert Huber": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1988"
+        }
+    },
+    "Hartmut Michel": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1988"
+        }
+    },
+    "Jack Steinberger": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1988"
+        }
+    },
+    "J. Georg Bednorz": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1987"
+        }
+    },
+    "Ernst Ruska": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1986"
+        }
+    },
+    "Gerd Binnig": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1986"
+        }
+    },
+    "Klaus von Klitzing": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1985"
+        }
+    },
+    "Georges J.F. Köhler": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1984"
+        }
+    },
+    "Georg Wittig": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1979"
+        }
+    },
+    "Arno Penzias": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1978"
+        }
+    },
+    "Henry Kissinger": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1973"
+        }
+    },
+    "Ernst Otto Fischer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1973"
+        }
+    },
+    "Heinrich Böll": {
+        "country": "Germany",
+        "prize": {
+            "category": "Literature",
+            "years": "1972"
+        }
+    },
+    "Willy Brandt": {
+        "country": "Germany",
+        "prize": {
+            "category": "Peace",
+            "years": "1971"
+        }
+    },
+    "Bernard Katz": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1970"
+        }
+    },
+    "Max Delbrück": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1969"
+        }
+    },
+    "Manfred Eigen": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1967"
+        }
+    },
+    "Hans Bethe": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1967"
+        }
+    },
+    "Nelly Sachs": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Literature",
+            "years": "1966"
+        }
+    },
+    "Feodor Felix Konrad Lynen": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1964"
+        }
+    },
+    "Konrad Bloch": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1964"
+        }
+    },
+    "Karl Ziegler": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1963"
+        }
+    },
+    "Maria Goeppert-Mayer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1963"
+        }
+    },
+    "J. Hans D. Jensen": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1963"
+        }
+    },
+    "Rudolf Mössbauer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1961"
+        }
+    },
+    "Werner Forssmann": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1956"
+        }
+    },
+    "Polykarp Kusch": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1955"
+        }
+    },
+    "Max Born": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1954"
+        }
+    },
+    "Walther Bothe": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1954"
+        }
+    },
+    "Hermann Staudinger": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1953"
+        }
+    },
+    "Fritz Albert Lipmann": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1953"
+        }
+    },
+    "Hans Adolf Krebs": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1953"
+        }
+    },
+    "Albert Schweitzer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Peace",
+            "years": "1952"
+        }
+    },
+    "Otto Diels": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1950"
+        }
+    },
+    "Kurt Alder": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1950"
+        }
+    },
+    "Hermann Hesse": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Literature",
+            "years": "1946"
+        }
+    },
+    "Ernst Boris Chain": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1945"
+        }
+    },
+    "Otto Hahn": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1944"
+        }
+    },
+    "Otto Stern": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1943"
+        }
+    },
+    "Adolf Butenandt": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1939"
+        }
+    },
+    "Gerhard Domagk": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1939"
+        }
+    },
+    "Carl von Ossietzky": {
+        "country": "Germany",
+        "prize": {
+            "category": "Peace",
+            "years": "1935"
+        }
+    },
+    "Hans Spemann": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1935"
+        }
+    },
+    "Werner Karl Heisenberg": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1932"
+        }
+    },
+    "Otto Heinrich Warburg": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1931"
+        }
+    },
+    "Carl Bosch": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1931"
+        }
+    },
+    "Friedrich Bergius": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1931"
+        }
+    },
+    "Hans Fischer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1930"
+        }
+    },
+    "Thomas Mann": {
+        "country": "Germany",
+        "prize": {
+            "category": "Literature",
+            "years": "1929"
+        }
+    },
+    "Hans von Euler-Chelpin": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1929"
+        }
+    },
+    "Adolf Otto Reinhold Windaus": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1928"
+        }
+    },
+    "Ludwig Quidde": {
+        "country": "Germany",
+        "prize": {
+            "category": "Peace",
+            "years": "1927"
+        }
+    },
+    "Heinrich Otto Wieland": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1927"
+        }
+    },
+    "Gustav Stresemann": {
+        "country": "Germany",
+        "prize": {
+            "category": "Peace",
+            "years": "1926"
+        }
+    },
+    "James Franck": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1925"
+        }
+    },
+    "Gustav Ludwig Hertz": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1925"
+        }
+    },
+    "Otto Fritz Meyerhof": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1922"
+        }
+    },
+    "Albert Einstein": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physics",
+            "years": "1921"
+        }
+    },
+    "Walther Nernst": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1920"
+        }
+    },
+    "Johannes Stark": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1919"
+        }
+    },
+    "Fritz Haber": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1918"
+        }
+    },
+    "Max Karl Ernst Ludwig Planck": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1918"
+        }
+    },
+    "Richard Willstätter": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1915"
+        }
+    },
+    "Max von Laue": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1914"
+        }
+    },
+    "Wilhelm Wien": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1911"
+        }
+    },
+    "Otto Wallach": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1910"
+        }
+    },
+    "Albrecht Kossel": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1910"
+        }
+    },
+    "Paul Johann Ludwig Heyse": {
+        "country": "Germany",
+        "prize": {
+            "category": "Literature",
+            "years": "1910"
+        }
+    },
+    "Karl Ferdinand Braun": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1909"
+        }
+    },
+    "Rudolf Christoph Eucken": {
+        "country": "Germany",
+        "prize": {
+            "category": "Literature",
+            "years": "1908"
+        }
+    },
+    "Paul Ehrlich": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1908"
+        }
+    },
+    "Eduard Buchner": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1907"
+        }
+    },
+    "Robert Koch": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1905"
+        }
+    },
+    "Adolf von Baeyer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1905"
+        }
+    },
+    "Hermann Emil Fischer": {
+        "country": "Germany",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1902"
+        }
+    },
+    "Theodor Mommsen": {
+        "country": "Germany",
+        "prize": {
+            "category": "Literature",
+            "years": "1902"
+        }
+    },
+    "Emil Adolf von Behring": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1901"
+        }
+    },
+    "Wilhelm Conrad Röntgen": {
+        "country": "Germany",
+        "prize": {
+            "category": "Physics",
+            "years": "1901"
+        }
+    },
+    "Kofi Annan": {
+        "country": "Ghana",
+        "prize": {
+            "category": "Peace",
+            "years": "2001"
+        }
+    },
+    "Odysseas Elytis": {
+        "country": "Greece",
+        "prize": {
+            "category": "Literature",
+            "years": "1979"
+        }
+    },
+    "Rigoberta Menchú": {
+        "country": "Guatemala",
+        "prize": {
+            "category": "Peace",
+            "years": "1992"
+        }
+    },
+    "Miguel Ángel Asturias": {
+        "country": "Guatemala",
+        "prize": {
+            "category": "Literature",
+            "years": "1967"
+        }
+    },
+    "Katalin Karikó": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2023"
+        }
+    },
+    "Avram Hershko": {
+        "country": "Israel",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2004"
+        }
+    },
+    "Imre Kertész": {
+        "country": "Hungary",
+        "prize": {
+            "category": "Literature",
+            "years": "2002"
+        }
+    },
+    "George Andrew Olah": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1994"
+        }
+    },
+    "John Harsanyi": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1994"
+        }
+    },
+    "Dennis Gabor": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1971"
+        }
+    },
+    "Eugene Wigner": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1963"
+        }
+    },
+    "Georg von Békésy": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1961"
+        }
+    },
+    "George de Hevesy": {
+        "country": "Hungary",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1943"
+        }
+    },
+    "Albert Szent-Györgyi": {
+        "country": "Hungary",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1937"
+        }
+    },
+    "Philipp Lenard": {
+        "country": "Hungary",
+        "prize": {
+            "category": "Physics",
+            "years": "1905"
+        }
+    },
+    "Halldór Laxness": {
+        "country": "Iceland",
+        "prize": {
+            "category": "Literature",
+            "years": "1955"
+        }
+    },
+    "Abhijit Banerjee": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2019"
+        }
+    },
+    "Kailash Satyarthi": {
+        "country": "India",
+        "prize": {
+            "category": "Peace",
+            "years": "2014"
+        }
+    },
+    "Venkatraman Ramakrishnan": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2009"
+        }
+    },
+    "V. S. Naipaul": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "2001"
+        }
+    },
+    "Amartya Sen": {
+        "country": "India",
+        "prize": {
+            "category": "Economics",
+            "years": "1998"
+        }
+    },
+    "Subramanyan Chandrasekhar": {
+        "country": "Pakistan",
+        "prize": {
+            "category": "Physics",
+            "years": "1983"
+        }
+    },
+    "Har Gobind Khorana": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1968"
+        }
+    },
+    "C. V. Raman ": {
+        "country": "India",
+        "prize": {
+            "category": "Physics",
+            "years": "1930"
+        }
+    },
+    "Rabindranath Tagore '": {
+        "country": "India",
+        "prize": {
+            "category": "Literature",
+            "years": "1913"
+        }
+    },
+    "Rudyard Kipling": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "1907"
+        }
+    },
+    "Ronald Ross": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1902"
+        }
+    },
+    "Narges Mohammadi": {
+        "country": "Iran",
+        "prize": {
+            "category": "Peace",
+            "years": "2023"
+        }
+    },
+    "Shirin Ebadi": {
+        "country": "Iran",
+        "prize": {
+            "category": "Peace",
+            "years": "2003"
+        }
+    },
+    "Nadia Murad": {
+        "country": "Iraq",
+        "prize": {
+            "category": "Peace",
+            "years": "2018"
+        }
+    },
+    "William C. Campbell": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2015"
+        }
+    },
+    "John Hume": {
+        "country": "Ireland",
+        "prize": {
+            "category": "Peace",
+            "years": "1998"
+        }
+    },
+    "David Trimble": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1998"
+        }
+    },
+    "Séamus Heaney": {
+        "country": "Ireland",
+        "prize": {
+            "category": "Literature",
+            "years": "1995"
+        }
+    },
+    "Mairead Corrigan": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1976"
+        }
+    },
+    "Betty Williams": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1976"
+        }
+    },
+    "Samuel Beckett": {
+        "country": "Ireland",
+        "prize": {
+            "category": "Literature",
+            "years": "1969"
+        }
+    },
+    "Ernest Walton": {
+        "country": "Ireland",
+        "prize": {
+            "category": "Physics",
+            "years": "1951"
+        }
+    },
+    "George Bernard Shaw": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "1925"
+        }
+    },
+    "W. B. Yeats": {
+        "country": "Ireland",
+        "prize": {
+            "category": "Literature",
+            "years": "1923"
+        }
+    },
+    "Joshua Angrist": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2021"
+        }
+    },
+    "Arieh Warshel": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2013"
+        }
+    },
+    "Michael Levitt": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2013"
+        }
+    },
+    "Dan Shechtman": {
+        "country": "Israel",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2011"
+        }
+    },
+    "Ada Yonath": {
+        "country": "Israel",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2009"
+        }
+    },
+    "Aaron Ciechanover": {
+        "country": "Israel",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2004"
+        }
+    },
+    "Daniel Kahneman": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2002"
+        }
+    },
+    "Yitzhak Rabin": {
+        "country": "Israel",
+        "prize": {
+            "category": "Peace",
+            "years": "1994"
+        }
+    },
+    "Giorgio Parisi": {
+        "country": "Italy",
+        "prize": {
+            "category": "Physics",
+            "years": "2021"
+        }
+    },
+    "Mario R. Capecchi": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2007"
+        }
+    },
+    "Riccardo Giacconi": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2002"
+        }
+    },
+    "Dario Fo": {
+        "country": "Italy",
+        "prize": {
+            "category": "Literature",
+            "years": "1997"
+        }
+    },
+    "Rita Levi-Montalcini": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1986"
+        }
+    },
+    "Franco Modigliani": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1985"
+        }
+    },
+    "Carlo Rubbia": {
+        "country": "Italy",
+        "prize": {
+            "category": "Physics",
+            "years": "1984"
+        }
+    },
+    "Eugenio Montale": {
+        "country": "Italy",
+        "prize": {
+            "category": "Literature",
+            "years": "1975"
+        }
+    },
+    "Renato Dulbecco": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1975"
+        }
+    },
+    "Salvador Luria": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1969"
+        }
+    },
+    "Giulio Natta": {
+        "country": "Italy",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1963"
+        }
+    },
+    "Emilio Segrè": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1959"
+        }
+    },
+    "Salvatore Quasimodo": {
+        "country": "Italy",
+        "prize": {
+            "category": "Literature",
+            "years": "1959"
+        }
+    },
+    "Daniel Bovet": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1957"
+        }
+    },
+    "Enrico Fermi": {
+        "country": "Italy",
+        "prize": {
+            "category": "Physics",
+            "years": "1938"
+        }
+    },
+    "Luigi Pirandello": {
+        "country": "Italy",
+        "prize": {
+            "category": "Literature",
+            "years": "1934"
+        }
+    },
+    "Grazia Deledda": {
+        "country": "Italy",
+        "prize": {
+            "category": "Literature",
+            "years": "1926"
+        }
+    },
+    "Guglielmo Marconi": {
+        "country": "Italy",
+        "prize": {
+            "category": "Physics",
+            "years": "1909"
+        }
+    },
+    "Ernesto Teodoro Moneta": {
+        "country": "Italy",
+        "prize": {
+            "category": "Peace",
+            "years": "1907"
+        }
+    },
+    "Camillo Golgi": {
+        "country": "Italy",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1906"
+        }
+    },
+    "Giosuè Carducci": {
+        "country": "Italy",
+        "prize": {
+            "category": "Literature",
+            "years": "1906"
+        }
+    },
+    "Syukuro Manabe": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2021"
+        }
+    },
+    "Akira Yoshino": {
+        "country": "Japan",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2019"
+        }
+    },
+    "Tasuku Honjo": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2018"
+        }
+    },
+    "Kazuo Ishiguro": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "2017"
+        }
+    },
+    "Yoshinori Ohsumi": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2016"
+        }
+    },
+    "Takaaki Kajita": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "2015"
+        }
+    },
+    "Satoshi Ōmura": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2015"
+        }
+    },
+    "Shuji Nakamura": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2014"
+        }
+    },
+    "Hiroshi Amano": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "2014"
+        }
+    },
+    "Isamu Akasaki": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "2014"
+        }
+    },
+    "Shinya Yamanaka": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2012"
+        }
+    },
+    "Akira Suzuki": {
+        "country": "Japan",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2010"
+        }
+    },
+    "Ei-ichi Negishi": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2010"
+        }
+    },
+    "Osamu Shimomura": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2008"
+        }
+    },
+    "Toshihide Maskawa": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "2008"
+        }
+    },
+    "Makoto Kobayashi": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "2008"
+        }
+    },
+    "Yoichiro Nambu": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2008"
+        }
+    },
+    "Koichi Tanaka": {
+        "country": "Japan",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2002"
+        }
+    },
+    "Masatoshi Koshiba": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "2002"
+        }
+    },
+    "Ryōji Noyori": {
+        "country": "Japan",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2001"
+        }
+    },
+    "Hideki Shirakawa": {
+        "country": "Japan",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2000"
+        }
+    },
+    "Kenzaburō Ōe": {
+        "country": "Japan",
+        "prize": {
+            "category": "Literature",
+            "years": "1994"
+        }
+    },
+    "Susumu Tonegawa": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1987"
+        }
+    },
+    "Kenichi Fukui": {
+        "country": "Japan",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1981"
+        }
+    },
+    "Eisaku Satō": {
+        "country": "Japan",
+        "prize": {
+            "category": "Peace",
+            "years": "1974"
+        }
+    },
+    "Leo Esaki": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "1973"
+        }
+    },
+    "Yasunari Kawabata": {
+        "country": "Japan",
+        "prize": {
+            "category": "Literature",
+            "years": "1968"
+        }
+    },
+    "Sin-Itiro Tomonaga": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "1965"
+        }
+    },
+    "Hideki Yukawa": {
+        "country": "Japan",
+        "prize": {
+            "category": "Physics",
+            "years": "1949"
+        }
+    },
+    "Wangari Maathai": {
+        "country": "Kenya",
+        "prize": {
+            "category": "Peace",
+            "years": "2004"
+        }
+    },
+    "Wilhelm Ostwald": {
+        "country": "Latvia",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1909[7]"
+        }
+    },
+    "Ellen Johnson Sirleaf": {
+        "country": "Liberia",
+        "prize": {
+            "category": "Peace",
+            "years": "2011"
+        }
+    },
+    "Leymah Gbowee": {
+        "country": "Liberia",
+        "prize": {
+            "category": "Peace",
+            "years": "2011"
+        }
+    },
+    "Aaron Klug": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1982"
+        }
+    },
+    "Mario José Molina Henríquez": {
+        "country": "Mexico",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1995"
+        }
+    },
+    "Octavio Paz Lozano": {
+        "country": "Mexico",
+        "prize": {
+            "category": "Literature",
+            "years": "1990"
+        }
+    },
+    "Alfonso García Robles": {
+        "country": "Mexico",
+        "prize": {
+            "category": "Peace",
+            "years": "1982"
+        }
+    },
+    "Aung San Suu Kyi": {
+        "country": "Myanmar (Burma)",
+        "prize": {
+            "category": "Peace",
+            "years": "1991"
+        }
+    },
+    "Serge Haroche": {
+        "country": "Morocco",
+        "prize": {
+            "category": "Physics",
+            "years": "2012; a French citizen as per his Wikipedia page"
+        }
+    },
+    "Guido Imbens": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2021"
+        }
+    },
+    "Ben Feringa": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2016"
+        }
+    },
+    "Organisation for the Prohibition of Chemical Weapons": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Peace",
+            "years": "2013"
+        }
+    },
+    "Martinus J. G. Veltman": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physics",
+            "years": "1999"
+        }
+    },
+    "Gerard 't Hooft": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physics",
+            "years": "1999"
+        }
+    },
+    "Simon van der Meer": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physics",
+            "years": "1984"
+        }
+    },
+    "Nicolaas Bloembergen": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1981"
+        }
+    },
+    "Tjalling C. Koopmans": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1975"
+        }
+    },
+    "Nikolaas Tinbergen": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1973"
+        }
+    },
+    "Jan Tinbergen": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Economics",
+            "years": "1969"
+        }
+    },
+    "Frits Zernike": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physics",
+            "years": "1953"
+        }
+    },
+    "Peter Debye": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1936"
+        }
+    },
+    "Christiaan Eijkman": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1929"
+        }
+    },
+    "Willem Einthoven": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1924"
+        }
+    },
+    "Heike Kamerlingh Onnes": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physics",
+            "years": "1913"
+        }
+    },
+    "Tobias Asser": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Peace",
+            "years": "1911"
+        }
+    },
+    "Johannes Diderik van der Waals": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physics",
+            "years": "1910"
+        }
+    },
+    "Pieter Zeeman": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physics",
+            "years": "1902"
+        }
+    },
+    "Hendrik Lorentz": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Physics",
+            "years": "1902"
+        }
+    },
+    "Jacobus Henricus van 't Hoff": {
+        "country": "Netherlands",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1901"
+        }
+    },
+    "Alan MacDiarmid": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2000"
+        }
+    },
+    "Maurice Wilkins": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1962"
+        }
+    },
+    "Ernest Rutherford": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1908"
+        }
+    },
+    "Wole Soyinka": {
+        "country": "Nigeria",
+        "prize": {
+            "category": "Literature",
+            "years": "1986"
+        }
+    },
+    "Jon Fosse": {
+        "country": "Norway",
+        "prize": {
+            "category": "Literature",
+            "years": "2023"
+        }
+    },
+    "May-Britt Moser": {
+        "country": "Norway",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2014"
+        }
+    },
+    "Edvard Moser": {
+        "country": "Norway",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2014"
+        }
+    },
+    "Finn E. Kydland": {
+        "country": "Norway",
+        "prize": {
+            "category": "Economics",
+            "years": "2004"
+        }
+    },
+    "Trygve Haavelmo": {
+        "country": "Norway",
+        "prize": {
+            "category": "Economics",
+            "years": "1989"
+        }
+    },
+    "Ivar Giaever": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1973"
+        }
+    },
+    "Ragnar Frisch": {
+        "country": "Norway",
+        "prize": {
+            "category": "Economics",
+            "years": "1969"
+        }
+    },
+    "Odd Hassel": {
+        "country": "Norway",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1969"
+        }
+    },
+    "Lars Onsager": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1968"
+        }
+    },
+    "Sigrid Undset": {
+        "country": "Norway",
+        "prize": {
+            "category": "Literature",
+            "years": "1928"
+        }
+    },
+    "Fridtjof Nansen": {
+        "country": "Norway",
+        "prize": {
+            "category": "Peace",
+            "years": "1922"
+        }
+    },
+    "Christian Lous Lange": {
+        "country": "Norway",
+        "prize": {
+            "category": "Peace",
+            "years": "1921"
+        }
+    },
+    "Knut Hamsun": {
+        "country": "Norway",
+        "prize": {
+            "category": "Literature",
+            "years": "1920"
+        }
+    },
+    "Bjørnstjerne Bjørnson": {
+        "country": "Norway",
+        "prize": {
+            "category": "Literature",
+            "years": "1903"
+        }
+    },
+    "Malala Yousafzai": {
+        "country": "Pakistan",
+        "prize": {
+            "category": "Peace",
+            "years": "2014"
+        }
+    },
+    "Abdus Salam": {
+        "country": "Pakistan",
+        "prize": {
+            "category": "Physics",
+            "years": "1979"
+        }
+    },
+    "Mario Vargas Llosa": {
+        "country": "Spain",
+        "prize": {
+            "category": "Literature",
+            "years": "2010"
+        }
+    },
+    "Maria Ressa": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "2021"
+        }
+    },
+    "Olga Tokarczuk": {
+        "country": "Poland",
+        "prize": {
+            "category": "Literature",
+            "years": "2018"
+        }
+    },
+    "Leonid Hurwicz": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2007"
+        }
+    },
+    "Wisława Szymborska": {
+        "country": "Poland",
+        "prize": {
+            "category": "Literature",
+            "years": "1996"
+        }
+    },
+    "Joseph Rotblat": {
+        "country": "Poland",
+        "prize": {
+            "category": "Peace",
+            "years": "1995"
+        }
+    },
+    "Shimon Peres": {
+        "country": "Poland",
+        "prize": {
+            "category": "Peace",
+            "years": "1994"
+        }
+    },
+    "Georges Charpak": {
+        "country": "Poland",
+        "prize": {
+            "category": "Physics",
+            "years": "1992"
+        }
+    },
+    "Roald Hoffmann": {
+        "country": "Poland",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1981"
+        }
+    },
+    "Isaac Bashevis Singer": {
+        "country": "Poland",
+        "prize": {
+            "category": "Literature",
+            "years": "1978"
+        }
+    },
+    "Tadeusz Reichstein": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1950"
+        }
+    },
+    "Władysław Reymont": {
+        "country": "Poland",
+        "prize": {
+            "category": "Literature",
+            "years": "1924"
+        }
+    },
+    "Marie Skłodowska-Curie": {
+        "country": "Poland",
+        "prize": {
+            "category": "Physics",
+            "years": "1903"
+        }
+    },
+    "Henryk Sienkiewicz": {
+        "country": "Poland",
+        "prize": {
+            "category": "Literature",
+            "years": "1905"
+        }
+    },
+    "José Saramago": {
+        "country": "Portugal",
+        "prize": {
+            "category": "Literature",
+            "years": "1998"
+        }
+    },
+    "António Egas Moniz": {
+        "country": "Portugal",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1949"
+        }
+    },
+    "Elie Wiesel": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1986"
+        }
+    },
+    "George E. Palade": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1974"
+        }
+    },
+    "Alexei Ekimov": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2023"
+        }
+    },
+    "Memorial": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Peace",
+            "years": "2022"
+        }
+    },
+    "Dmitry Muratov": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Peace",
+            "years": "2021"
+        }
+    },
+    "Andre Geim": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physics",
+            "years": "2010"
+        }
+    },
+    "Konstantin Novoselov": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "2010"
+        }
+    },
+    "Alexei Alexeyevich Abrikosov": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2003"
+        }
+    },
+    "Vitaly Ginzburg": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physics",
+            "years": "2003"
+        }
+    },
+    "Mikhail Gorbachev": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Peace",
+            "years": "1990"
+        }
+    },
+    "Joseph Brodsky": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1987"
+        }
+    },
+    "Pyotr Kapitsa": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physics",
+            "years": "1978"
+        }
+    },
+    "Menachem Begin": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Peace",
+            "years": "1978"
+        }
+    },
+    "Andrei Sakharov": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Peace",
+            "years": "1975"
+        }
+    },
+    "Leonid Kantorovich": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Economics",
+            "years": "1975"
+        }
+    },
+    "Simon Kuznets": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Economics",
+            "years": "1971"
+        }
+    },
+    "Aleksandr Solzhenitsyn": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Literature",
+            "years": "1970"
+        }
+    },
+    "Mikhail Sholokhov": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Literature",
+            "years": "1965"
+        }
+    },
+    "Nikolay Basov": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physics",
+            "years": "1964"
+        }
+    },
+    "Alexander Prokhorov": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physics",
+            "years": "1964"
+        }
+    },
+    "Boris Pasternak": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Literature",
+            "years": "1958 (forced to decline)"
+        }
+    },
+    "Pavel Cherenkov": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physics",
+            "years": "1958"
+        }
+    },
+    "Igor Tamm": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physics",
+            "years": "1958"
+        }
+    },
+    "Ilya Mikhailovich Frank": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physics",
+            "years": "1958"
+        }
+    },
+    "Nikolay Semyonov": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1956"
+        }
+    },
+    "Élie Metchnikoff": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1908"
+        }
+    },
+    "Ivan Pavlov": {
+        "country": "Russia and Soviet Union",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1904"
+        }
+    },
+    "Derek Walcott": {
+        "country": "Saint Lucia",
+        "prize": {
+            "category": "Literature",
+            "years": "1992"
+        }
+    },
+    "W. Arthur Lewis": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Economics",
+            "years": "1979"
+        }
+    },
+    "J. M. Coetzee": {
+        "country": "South Africa",
+        "prize": {
+            "category": "Literature",
+            "years": "2003"
+        }
+    },
+    "Sydney Brenner": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2002"
+        }
+    },
+    "F. W. de Klerk": {
+        "country": "South Africa",
+        "prize": {
+            "category": "Peace",
+            "years": "1993"
+        }
+    },
+    "Nelson Mandela": {
+        "country": "South Africa",
+        "prize": {
+            "category": "Peace",
+            "years": "1993"
+        }
+    },
+    "Nadine Gordimer": {
+        "country": "South Africa",
+        "prize": {
+            "category": "Literature",
+            "years": "1991"
+        }
+    },
+    "Desmond Tutu": {
+        "country": "South Africa",
+        "prize": {
+            "category": "Peace",
+            "years": "1984"
+        }
+    },
+    "Allan M. Cormack": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1979"
+        }
+    },
+    "Max Theiler": {
+        "country": "South Africa",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1951"
+        }
+    },
+    "Kim Dae-jung": {
+        "country": "South Korea",
+        "prize": {
+            "category": "Peace",
+            "years": "2000"
+        }
+    },
+    "Camilo José Cela": {
+        "country": "Spain",
+        "prize": {
+            "category": "Literature",
+            "years": "1989"
+        }
+    },
+    "Vicente Aleixandre": {
+        "country": "Spain",
+        "prize": {
+            "category": "Literature",
+            "years": "1977"
+        }
+    },
+    "Severo Ochoa": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1959"
+        }
+    },
+    "Juan Ramón Jiménez": {
+        "country": "Spain",
+        "prize": {
+            "category": "Literature",
+            "years": "1956"
+        }
+    },
+    "Jacinto Benavente": {
+        "country": "Spain",
+        "prize": {
+            "category": "Literature",
+            "years": "1922"
+        }
+    },
+    "Santiago Ramón y Cajal": {
+        "country": "Spain",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1906"
+        }
+    },
+    "José Echegaray": {
+        "country": "Spain",
+        "prize": {
+            "category": "Literature",
+            "years": "1904"
+        }
+    },
+    "Tomas Lindahl": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2015"
+        }
+    },
+    "Tomas Tranströmer": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Literature",
+            "years": "2011"
+        }
+    },
+    "Arvid Carlsson": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2000"
+        }
+    },
+    "Alva Myrdal": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Peace",
+            "years": "1982"
+        }
+    },
+    "Sune Bergström": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1982"
+        }
+    },
+    "Bengt I. Samuelsson": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1982"
+        }
+    },
+    "Kai Siegbahn": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physics",
+            "years": "1981"
+        }
+    },
+    "Torsten Wiesel": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1981"
+        }
+    },
+    "Bertil Ohlin": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Economics",
+            "years": "1977"
+        }
+    },
+    "Eyvind Johnson": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Literature",
+            "years": "1974"
+        }
+    },
+    "Harry Martinson": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Literature",
+            "years": "1974"
+        }
+    },
+    "Gunnar Myrdal": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Economics",
+            "years": "1974"
+        }
+    },
+    "Ulf von Euler": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1970"
+        }
+    },
+    "Hannes Alfvén": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physics",
+            "years": "1970"
+        }
+    },
+    "Dag Hammarskjöld": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Peace",
+            "years": "1961 (posthumously)"
+        }
+    },
+    "Hugo Theorell": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1955"
+        }
+    },
+    "Pär Lagerkvist": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Literature",
+            "years": "1951"
+        }
+    },
+    "Arne Tiselius": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1948"
+        }
+    },
+    "Erik Axel Karlfeldt": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Literature",
+            "years": "1931 (posthumously)"
+        }
+    },
+    "Nathan Söderblom": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Peace",
+            "years": "1930"
+        }
+    },
+    "Theodor Svedberg": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1926"
+        }
+    },
+    "Karl Manne Siegbahn": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physics",
+            "years": "1924"
+        }
+    },
+    "Hjalmar Branting": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Peace",
+            "years": "1921"
+        }
+    },
+    "Carl Gustaf Verner von Heidenstam": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Literature",
+            "years": "1916"
+        }
+    },
+    "Gustaf Dalén": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physics",
+            "years": "1912"
+        }
+    },
+    "Allvar Gullstrand": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1911"
+        }
+    },
+    "Selma Lagerlöf": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Literature",
+            "years": "1909"
+        }
+    },
+    "Klas Pontus Arnoldson": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Peace",
+            "years": "1908"
+        }
+    },
+    "Svante Arrhenius": {
+        "country": "Sweden",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1903"
+        }
+    },
+    "Michel Mayor": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physics",
+            "years": "2019"
+        }
+    },
+    "Didier Queloz": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physics",
+            "years": "2019"
+        }
+    },
+    "Jacques Dubochet": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2017"
+        }
+    },
+    "Kurt Wüthrich": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2002"
+        }
+    },
+    "Rolf M. Zinkernagel": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1996"
+        }
+    },
+    "Edmond H. Fischer": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1992"
+        }
+    },
+    "Richard R. Ernst": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1991"
+        }
+    },
+    "Karl Alexander Müller": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physics",
+            "years": "1987"
+        }
+    },
+    "Heinrich Rohrer": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physics",
+            "years": "1986"
+        }
+    },
+    "Werner Arber": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1978"
+        }
+    },
+    "Felix Bloch": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1952"
+        }
+    },
+    "Walter Rudolf Hess": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1949"
+        }
+    },
+    "Paul Hermann Müller": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1948"
+        }
+    },
+    "Paul Karrer": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1937"
+        }
+    },
+    "Charles Édouard Guillaume": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physics",
+            "years": "1920"
+        }
+    },
+    "Carl Spitteler": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Literature",
+            "years": "1919"
+        }
+    },
+    "Theodor Kocher": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1909"
+        }
+    },
+    "Élie Ducommun": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Peace",
+            "years": "1902"
+        }
+    },
+    "Charles Albert Gobat": {
+        "country": "Switzerland",
+        "prize": {
+            "category": "Peace",
+            "years": "1902"
+        }
+    },
+    "Yuan T. Lee": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1986"
+        }
+    },
+    "Abdulrazak Gurnah": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "2021"
+        }
+    },
+    "14th Dalai Lama": {
+        "country": "Tibet",
+        "prize": {
+            "category": "Peace",
+            "years": "1989"
+        }
+    },
+    "Tunisian National Dialogue Quartet": {
+        "country": "Tunisia",
+        "prize": {
+            "category": "Peace",
+            "years": "2015"
+        }
+    },
+    "Aziz Sancar": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2015"
+        }
+    },
+    "Orhan Pamuk": {
+        "country": "Turkey",
+        "prize": {
+            "category": "Literature",
+            "years": "2006"
+        }
+    },
+    "Centre for Civil Liberties": {
+        "country": "Ukraine",
+        "prize": {
+            "category": "Peace",
+            "years": "2022"
+        }
+    },
+    "Selman Waksman": {
+        "country": "Ukraine",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1952"
+        }
+    },
+    "Ilya Ilyich Mechnikov": {
+        "country": "Ukraine",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1908"
+        }
+    },
+    "David MacMillan": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2021"
+        }
+    },
+    "Roger Penrose": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "2020"
+        }
+    },
+    "Michael Houghton": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2020"
+        }
+    },
+    "Peter J. Ratcliffe": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2019"
+        }
+    },
+    "M. Stanley Whittingham": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2019"
+        }
+    },
+    "Greg Winter": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2018"
+        }
+    },
+    "Richard Henderson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2017"
+        }
+    },
+    "Oliver Hart": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2016"
+        }
+    },
+    "Fraser Stoddart": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2016"
+        }
+    },
+    "David J. Thouless": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "2016"
+        }
+    },
+    "F. Duncan M. Haldane": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2016"
+        }
+    },
+    "John M. Kosterlitz": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2016"
+        }
+    },
+    "Angus Deaton": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2015"
+        }
+    },
+    "John O'Keefe": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2014"
+        }
+    },
+    "Peter Higgs": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "2013"
+        }
+    },
+    "John B. Gurdon": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2012"
+        }
+    },
+    "Robert G. Edwards": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2010"
+        }
+    },
+    "Doris Lessing": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "2007"
+        }
+    },
+    "Sir Martin J. Evans": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2007"
+        }
+    },
+    "Oliver Smithies": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2007"
+        }
+    },
+    "Harold Pinter": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "2005"
+        }
+    },
+    "Clive W. J. Granger": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Economics",
+            "years": "2003"
+        }
+    },
+    "Anthony J. Leggett": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2003"
+        }
+    },
+    "Peter Mansfield": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2003"
+        }
+    },
+    "John E. Sulston": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2002"
+        }
+    },
+    "Tim Hunt": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2001"
+        }
+    },
+    "Paul Nurse": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2001"
+        }
+    },
+    "John Pople": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1998"
+        }
+    },
+    "John E. Walker": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1997"
+        }
+    },
+    "Harold Kroto": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1996"
+        }
+    },
+    "James A. Mirrlees": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Economics",
+            "years": "1996"
+        }
+    },
+    "Richard J. Roberts": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1993"
+        }
+    },
+    "Ronald Coase": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1991"
+        }
+    },
+    "James W. Black": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1988"
+        }
+    },
+    "Richard Stone": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Economics",
+            "years": "1984"
+        }
+    },
+    "William Golding": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "1983"
+        }
+    },
+    "John Robert Vane": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1982"
+        }
+    },
+    "Frederick Sanger": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1958"
+        }
+    },
+    "Godfrey Hounsfield": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1979"
+        }
+    },
+    "Peter D. Mitchell": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1978"
+        }
+    },
+    "James Meade": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Economics",
+            "years": "1977"
+        }
+    },
+    "Nevill Francis Mott": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1977"
+        }
+    },
+    "Amnesty International": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1977"
+        }
+    },
+    "Martin Ryle": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1974"
+        }
+    },
+    "Antony Hewish": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1974"
+        }
+    },
+    "Geoffrey Wilkinson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1973"
+        }
+    },
+    "Brian David Josephson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1973"
+        }
+    },
+    "Rodney Robert Porter": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1972"
+        }
+    },
+    "John Hicks": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Economics",
+            "years": "1972"
+        }
+    },
+    "Derek Harold Richard Barton": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1969"
+        }
+    },
+    "Ronald George Wreyford Norrish": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1967"
+        }
+    },
+    "George Porter": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1967"
+        }
+    },
+    "Dorothy Crowfoot Hodgkin": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1964"
+        }
+    },
+    "Andrew Huxley": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1963"
+        }
+    },
+    "Alan Lloyd Hodgkin": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1963"
+        }
+    },
+    "John Kendrew": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1962"
+        }
+    },
+    "Francis Crick": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1962"
+        }
+    },
+    "Peter Medawar": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1960"
+        }
+    },
+    "Philip Noel-Baker": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1959"
+        }
+    },
+    "Alexander R. Todd": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1957"
+        }
+    },
+    "Cyril Norman Hinshelwood": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1956"
+        }
+    },
+    "Winston Churchill": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "1953"
+        }
+    },
+    "Archer John Porter Martin": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1952"
+        }
+    },
+    "Richard Laurence Millington Synge": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1952"
+        }
+    },
+    "John Cockcroft": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1951"
+        }
+    },
+    "Bertrand Russell": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "1950"
+        }
+    },
+    "Cecil Frank Powell": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1950"
+        }
+    },
+    "John Boyd Orr": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1949"
+        }
+    },
+    "T. S. Eliot": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1948"
+        }
+    },
+    "Patrick Blackett": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1948"
+        }
+    },
+    "Edward Victor Appleton": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1947"
+        }
+    },
+    "Robert Robinson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1947"
+        }
+    },
+    "Friends Service Council": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1947"
+        }
+    },
+    "Alexander Fleming": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1945"
+        }
+    },
+    "George Paget Thomson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1937"
+        }
+    },
+    "Robert Cecil": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1937"
+        }
+    },
+    "Norman Haworth": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1937"
+        }
+    },
+    "Henry Hallett Dale": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1936"
+        }
+    },
+    "James Chadwick": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1935"
+        }
+    },
+    "Arthur Henderson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1934"
+        }
+    },
+    "Norman Angell": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1933"
+        }
+    },
+    "Paul Dirac": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1933"
+        }
+    },
+    "Charles Scott Sherrington": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1932"
+        }
+    },
+    "John Galsworthy": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Literature",
+            "years": "1932"
+        }
+    },
+    "Edgar Adrian": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1932"
+        }
+    },
+    "Arthur Harden": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1929"
+        }
+    },
+    "Frederick Hopkins": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1929"
+        }
+    },
+    "Owen Willans Richardson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1928"
+        }
+    },
+    "Charles Thomson Rees Wilson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1927"
+        }
+    },
+    "Austen Chamberlain": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1925"
+        }
+    },
+    "Archibald Vivian Hill": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1922"
+        }
+    },
+    "Francis William Aston": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1922"
+        }
+    },
+    "Frederick Soddy": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1921"
+        }
+    },
+    "Charles Glover Barkla": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1917"
+        }
+    },
+    "J. J. Thomson": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1906"
+        }
+    },
+    "John Strutt": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Physics",
+            "years": "1904"
+        }
+    },
+    "William Ramsay": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1904"
+        }
+    },
+    "William Randal Cremer": {
+        "country": "United Kingdom",
+        "prize": {
+            "category": "Peace",
+            "years": "1903"
+        }
+    },
+    "Claudia Goldin": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2023"
+        }
+    },
+    "Louis Brus": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2023"
+        }
+    },
+    "Drew Weissman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2023"
+        }
+    },
+    "Ben Bernanke": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2022"
+        }
+    },
+    "Douglas Diamond": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2022"
+        }
+    },
+    "Philip H. Dybvig": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2022"
+        }
+    },
+    "Carolyn R. Bertozzi": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2022"
+        }
+    },
+    "K. Barry Sharpless": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2001"
+        }
+    },
+    "John Clauser": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2022"
+        }
+    },
+    "David Julius": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2021"
+        }
+    },
+    "Robert B. Wilson": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2020"
+        }
+    },
+    "Paul R. Milgrom": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2020"
+        }
+    },
+    "Louise Glück": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "2020"
+        }
+    },
+    "Jennifer Doudna": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2020"
+        }
+    },
+    "Andrea Ghez": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2020"
+        }
+    },
+    "Harvey J. Alter": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2020"
+        }
+    },
+    "Charles M. Rice": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2020"
+        }
+    },
+    "Michael Kremer": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2019"
+        }
+    },
+    "William Kaelin Jr.": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2019"
+        }
+    },
+    "Gregg L. Semenza": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2019"
+        }
+    },
+    "Paul Romer": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2018"
+        }
+    },
+    "William Nordhaus": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2018"
+        }
+    },
+    "George P. Smith": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2018"
+        }
+    },
+    "Frances Arnold": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2018"
+        }
+    },
+    "Arthur Ashkin": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2018"
+        }
+    },
+    "James Allison": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2018"
+        }
+    },
+    "Richard H. Thaler": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2017"
+        }
+    },
+    "Kip Thorne": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2017"
+        }
+    },
+    "Barry Barish": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2017"
+        }
+    },
+    "Michael W. Young": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2017"
+        }
+    },
+    "Michael Rosbash": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2017"
+        }
+    },
+    "Jeffrey C. Hall": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2017"
+        }
+    },
+    "Bob Dylan": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "2016"
+        }
+    },
+    "Paul L. Modrich": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2015"
+        }
+    },
+    "William E. Moerner": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2014"
+        }
+    },
+    "Eric Betzig": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2014"
+        }
+    },
+    "Robert J. Shiller": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2013"
+        }
+    },
+    "Lars Peter Hansen": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2013"
+        }
+    },
+    "Eugene F. Fama": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2013"
+        }
+    },
+    "Randy Schekman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2013"
+        }
+    },
+    "James Rothman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2013"
+        }
+    },
+    "Alvin E. Roth": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2012"
+        }
+    },
+    "Lloyd S. Shapley": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2012"
+        }
+    },
+    "Brian K. Kobilka": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2012"
+        }
+    },
+    "Robert J. Lefkowitz": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2012"
+        }
+    },
+    "David J. Wineland": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2012"
+        }
+    },
+    "Christopher A. Sims": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2011"
+        }
+    },
+    "Thomas J. Sargent": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2011"
+        }
+    },
+    "Saul Perlmutter": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2011"
+        }
+    },
+    "Brian P. Schmidt": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2011"
+        }
+    },
+    "Adam G. Riess": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2011"
+        }
+    },
+    "Bruce Beutler": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2011"
+        }
+    },
+    "Peter A. Diamond": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2010"
+        }
+    },
+    "Dale T. Mortensen": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2010"
+        }
+    },
+    "Richard F. Heck": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2010"
+        }
+    },
+    "Elinor Ostrom": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2009"
+        }
+    },
+    "Oliver Eaton Williamson": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2009"
+        }
+    },
+    "Barack H. Obama": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "2009"
+        }
+    },
+    "Thomas A. Steitz": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2009"
+        }
+    },
+    "George E. Smith": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2009"
+        }
+    },
+    "Carol W. Greider": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2009"
+        }
+    },
+    "Paul Krugman": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2008"
+        }
+    },
+    "Roger Yonchien Tsien": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2008"
+        }
+    },
+    "Martin Chalfie": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2008"
+        }
+    },
+    "Eric S. Maskin": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2007"
+        }
+    },
+    "Roger B. Myerson": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2007"
+        }
+    },
+    "Al Gore": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "2007"
+        }
+    },
+    "Roger D. Kornberg": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2006"
+        }
+    },
+    "John C. Mather": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2006"
+        }
+    },
+    "Edmund S. Phelps": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2006"
+        }
+    },
+    "George F. Smoot": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2006"
+        }
+    },
+    "Andrew Z. Fire": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2006"
+        }
+    },
+    "Craig C. Mello": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2006"
+        }
+    },
+    "Robert Aumann": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2005"
+        }
+    },
+    "Robert H. Grubbs": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2005"
+        }
+    },
+    "Richard R. Schrock": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2005"
+        }
+    },
+    "Thomas Schelling": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2005"
+        }
+    },
+    "John L. Hall": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2005"
+        }
+    },
+    "Roy J. Glauber": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2005"
+        }
+    },
+    "Irwin Rose": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2004"
+        }
+    },
+    "Edward C. Prescott": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2004"
+        }
+    },
+    "David J. Gross": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2004"
+        }
+    },
+    "H. David Politzer": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2004"
+        }
+    },
+    "Frank Wilczek": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2004"
+        }
+    },
+    "Richard Axel": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2004"
+        }
+    },
+    "Linda B. Buck": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2004"
+        }
+    },
+    "Peter Agre": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2003"
+        }
+    },
+    "Roderick MacKinnon": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2003"
+        }
+    },
+    "Robert F. Engle": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2003"
+        }
+    },
+    "Paul C. Lauterbur": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2003"
+        }
+    },
+    "Vernon L. Smith": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2002"
+        }
+    },
+    "Jimmy Carter": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "2002"
+        }
+    },
+    "John Bennett Fenn": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2002"
+        }
+    },
+    "Raymond Davis Jr.": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2002"
+        }
+    },
+    "H. Robert Horvitz": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2002"
+        }
+    },
+    "William S. Knowles": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2001"
+        }
+    },
+    "Joseph E. Stiglitz": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2001"
+        }
+    },
+    "George A. Akerlof": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2001"
+        }
+    },
+    "A. Michael Spence": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2001"
+        }
+    },
+    "Eric A. Cornell": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2001"
+        }
+    },
+    "Carl E. Wieman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2001"
+        }
+    },
+    "Leland H. Hartwell": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2001"
+        }
+    },
+    "Alan Heeger": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "2000"
+        }
+    },
+    "James J. Heckman": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2000"
+        }
+    },
+    "Daniel L. McFadden": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "2000"
+        }
+    },
+    "Jack Kilby": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "2000"
+        }
+    },
+    "Paul Greengard": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "2000"
+        }
+    },
+    "Ahmed H. Zewail": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1999"
+        }
+    },
+    "Horst Ludwig Störmer": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1998"
+        }
+    },
+    "Robert B. Laughlin": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1998"
+        }
+    },
+    "Robert F. Furchgott": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1998"
+        }
+    },
+    "Louis J. Ignarro": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1998"
+        }
+    },
+    "Ferid Murad": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1998"
+        }
+    },
+    "Paul D. Boyer": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1997"
+        }
+    },
+    "Robert C. Merton": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1997"
+        }
+    },
+    "Jody Williams": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1997"
+        }
+    },
+    "Steven Chu": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1997"
+        }
+    },
+    "William D. Phillips": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1997"
+        }
+    },
+    "Stanley B. Prusiner": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1997"
+        }
+    },
+    "Richard E. Smalley": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1996"
+        }
+    },
+    "Robert F. Curl Jr.": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1996"
+        }
+    },
+    "David M. Lee": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1996"
+        }
+    },
+    "Douglas D. Osheroff": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1996"
+        }
+    },
+    "Robert C. Richardson": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1996"
+        }
+    },
+    "Mario J. Molina": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1995"
+        }
+    },
+    "F. Sherwood Rowland": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1995"
+        }
+    },
+    "Robert Lucas Jr.": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1995"
+        }
+    },
+    "Martin L. Perl": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1995"
+        }
+    },
+    "Frederick Reines": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1995"
+        }
+    },
+    "Edward B. Lewis": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1995"
+        }
+    },
+    "Eric F. Wieschaus": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1995"
+        }
+    },
+    "John Forbes Nash": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1994"
+        }
+    },
+    "Clifford G. Shull": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1994"
+        }
+    },
+    "Alfred G. Gilman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1994"
+        }
+    },
+    "Martin Rodbell": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1994"
+        }
+    },
+    "Kary B. Mullis": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1993"
+        }
+    },
+    "Robert W. Fogel": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1993"
+        }
+    },
+    "Douglass C. North": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1993"
+        }
+    },
+    "Toni Morrison": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1993"
+        }
+    },
+    "Russell A. Hulse": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1993"
+        }
+    },
+    "Joseph H. Taylor Jr.": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1993"
+        }
+    },
+    "Phillip A. Sharp": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1993"
+        }
+    },
+    "Gary S. Becker": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1992"
+        }
+    },
+    "Edwin G. Krebs": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1992"
+        }
+    },
+    "Elias James Corey": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1990"
+        }
+    },
+    "Merton H. Miller": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1990"
+        }
+    },
+    "William F. Sharpe": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1990"
+        }
+    },
+    "Harry M. Markowitz": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1990"
+        }
+    },
+    "Jerome I. Friedman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1990"
+        }
+    },
+    "Henry W. Kendall": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1990"
+        }
+    },
+    "Joseph E. Murray": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1990"
+        }
+    },
+    "E. Donnall Thomas": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1990"
+        }
+    },
+    "Thomas R. Cech": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1989"
+        }
+    },
+    "Norman F. Ramsey": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1989"
+        }
+    },
+    "J. Michael Bishop": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1989"
+        }
+    },
+    "Harold E. Varmus": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1989"
+        }
+    },
+    "Leon M. Lederman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1988"
+        }
+    },
+    "Melvin Schwartz": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1988"
+        }
+    },
+    "Gertrude B. Elion": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1988"
+        }
+    },
+    "George H. Hitchings": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1988"
+        }
+    },
+    "Charles J. Pedersen": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1987"
+        }
+    },
+    "Donald J. Cram": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1987"
+        }
+    },
+    "Robert M. Solow": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1987"
+        }
+    },
+    "Dudley R. Herschbach": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1986"
+        }
+    },
+    "James M. Buchanan": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1986"
+        }
+    },
+    "Stanley Cohen": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1986"
+        }
+    },
+    "Jerome Karle": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1985"
+        }
+    },
+    "Herbert A. Hauptman": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1985"
+        }
+    },
+    "Michael S. Brown": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1985"
+        }
+    },
+    "Joseph L. Goldstein": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1985"
+        }
+    },
+    "Bruce Merrifield": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1984"
+        }
+    },
+    "William A. Fowler": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1983"
+        }
+    },
+    "Subrahmanyan Chandrasekhar": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1983"
+        }
+    },
+    "Barbara McClintock": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1983"
+        }
+    },
+    "George J. Stigler": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1982"
+        }
+    },
+    "Kenneth G. Wilson": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1982"
+        }
+    },
+    "James Tobin": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1981"
+        }
+    },
+    "Arthur L. Schawlow": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1981"
+        }
+    },
+    "Roger W. Sperry": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1981"
+        }
+    },
+    "Walter Gilbert": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1980"
+        }
+    },
+    "Paul Berg": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1980"
+        }
+    },
+    "Lawrence R. Klein": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1980"
+        }
+    },
+    "James Cronin": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1980"
+        }
+    },
+    "Val Fitch": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1980"
+        }
+    },
+    "Baruj Benacerraf": {
+        "country": "Venezuela",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1980"
+        }
+    },
+    "George D. Snell": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1980"
+        }
+    },
+    "Herbert C. Brown": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1979"
+        }
+    },
+    "Theodore Schultz": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1979"
+        }
+    },
+    "Steven Weinberg": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1979"
+        }
+    },
+    "Sheldon Glashow": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1979"
+        }
+    },
+    "Herbert A. Simon": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1978"
+        }
+    },
+    "Robert Woodrow Wilson": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1978"
+        }
+    },
+    "Hamilton O. Smith": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1978"
+        }
+    },
+    "Daniel Nathans": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1978"
+        }
+    },
+    "Philip Anderson": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1977"
+        }
+    },
+    "John H. van Vleck": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1977"
+        }
+    },
+    "Rosalyn Yalow": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1977"
+        }
+    },
+    "William Lipscomb": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1976"
+        }
+    },
+    "Milton Friedman": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1976"
+        }
+    },
+    "Burton Richter": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1976"
+        }
+    },
+    "Samuel C. C. Ting": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1976"
+        }
+    },
+    "Baruch S. Blumberg": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1976"
+        }
+    },
+    "Daniel Carleton Gajdusek": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1976"
+        }
+    },
+    "James Rainwater": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1975"
+        }
+    },
+    "David Baltimore": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1975"
+        }
+    },
+    "Howard Martin Temin": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1975"
+        }
+    },
+    "Paul J. Flory": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1974"
+        }
+    },
+    "Wassily Leontief": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1973"
+        }
+    },
+    "Christian Anfinsen": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1972"
+        }
+    },
+    "Stanford Moore": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1972"
+        }
+    },
+    "William H. Stein": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1972"
+        }
+    },
+    "Kenneth J. Arrow": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1972"
+        }
+    },
+    "John Bardeen": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1956"
+        }
+    },
+    "Leon N. Cooper": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1972"
+        }
+    },
+    "Robert Schrieffer": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1972"
+        }
+    },
+    "Gerald Edelman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1972"
+        }
+    },
+    "Earl W. Sutherland Jr.": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1971"
+        }
+    },
+    "Paul A. Samuelson": {
+        "country": "United States",
+        "prize": {
+            "category": "Economics",
+            "years": "1970"
+        }
+    },
+    "Norman Borlaug": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1970"
+        }
+    },
+    "Julius Axelrod": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1970"
+        }
+    },
+    "Murray Gell-Mann": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1969"
+        }
+    },
+    "Alfred Hershey": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1969"
+        }
+    },
+    "Luis Alvarez": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1968"
+        }
+    },
+    "Robert W. Holley": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1968"
+        }
+    },
+    "Marshall Warren Nirenberg": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1968"
+        }
+    },
+    "Haldan Keffer Hartline": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1967"
+        }
+    },
+    "George Wald": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1967"
+        }
+    },
+    "Robert S. Mulliken": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1966"
+        }
+    },
+    "Francis Peyton Rous": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1966"
+        }
+    },
+    "Robert B. Woodward": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1965"
+        }
+    },
+    "Richard P. Feynman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1965"
+        }
+    },
+    "Julian Schwinger": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1965"
+        }
+    },
+    "Martin Luther King Jr.": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1964"
+        }
+    },
+    "Charles H. Townes": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1964"
+        }
+    },
+    "John Steinbeck": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1962"
+        }
+    },
+    "Linus C. Pauling": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1954"
+        }
+    },
+    "James D. Watson": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1962"
+        }
+    },
+    "Melvin Calvin": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1961"
+        }
+    },
+    "Robert Hofstadter": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1961"
+        }
+    },
+    "Willard F. Libby": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1960"
+        }
+    },
+    "Donald A. Glaser": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1960"
+        }
+    },
+    "Owen Chamberlain": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1959"
+        }
+    },
+    "Arthur Kornberg": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1959"
+        }
+    },
+    "George Beadle": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1958"
+        }
+    },
+    "Joshua Lederberg": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1958"
+        }
+    },
+    "Edward Tatum": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1958"
+        }
+    },
+    "Chen Ning Yang": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1957"
+        }
+    },
+    "William B. Shockley": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1956"
+        }
+    },
+    "Walter H. Brattain": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1956"
+        }
+    },
+    "Dickinson W. Richards": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1956"
+        }
+    },
+    "André F. Cournand": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1956"
+        }
+    },
+    "Vincent du Vigneaud": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1955"
+        }
+    },
+    "Willis E. Lamb": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1955"
+        }
+    },
+    "Ernest Hemingway": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1954"
+        }
+    },
+    "John F. Enders": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1954"
+        }
+    },
+    "Frederick C. Robbins": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1954"
+        }
+    },
+    "Thomas H. Weller": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1954"
+        }
+    },
+    "George C. Marshall": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1953"
+        }
+    },
+    "E. M. Purcell": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1952"
+        }
+    },
+    "Edwin M. McMillan": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1951"
+        }
+    },
+    "Glenn Theodore Seaborg": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1951"
+        }
+    },
+    "Ralph J. Bunche": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1950"
+        }
+    },
+    "Philip S. Hench": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1950"
+        }
+    },
+    "Edward C. Kendall": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1950"
+        }
+    },
+    "William Faulkner": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1949"
+        }
+    },
+    "American Friends Service Committee (The Quakers)": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1947"
+        }
+    },
+    "Wendell M. Stanley": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1946"
+        }
+    },
+    "James B. Sumner": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1946"
+        }
+    },
+    "John H. Northrop": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1946"
+        }
+    },
+    "Emily G. Balch": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1946"
+        }
+    },
+    "John R. Mott": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1946"
+        }
+    },
+    "Percy W. Bridgman": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1946"
+        }
+    },
+    "Hermann J. Muller": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1946"
+        }
+    },
+    "Cordell Hull": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1945"
+        }
+    },
+    "Isidor Isaac Rabi": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1944"
+        }
+    },
+    "Joseph Erlanger": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1944"
+        }
+    },
+    "Herbert S. Gasser": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1944"
+        }
+    },
+    "Edward A. Doisy": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1943"
+        }
+    },
+    "Ernest Lawrence": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1939"
+        }
+    },
+    "Pearl S. Buck": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1938"
+        }
+    },
+    "Clinton Davisson": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1937"
+        }
+    },
+    "Eugene O'Neill": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1936"
+        }
+    },
+    "Carl Anderson": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1936"
+        }
+    },
+    "Harold C. Urey": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1934"
+        }
+    },
+    "George R. Minot": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1934"
+        }
+    },
+    "William P. Murphy": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1934"
+        }
+    },
+    "George H. Whipple": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1934"
+        }
+    },
+    "Thomas H. Morgan": {
+        "country": "United States",
+        "prize": {
+            "category": "Physiology or Medicine",
+            "years": "1933"
+        }
+    },
+    "Irving Langmuir": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1932"
+        }
+    },
+    "Jane Addams": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1931"
+        }
+    },
+    "Nicholas M. Butler": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1931"
+        }
+    },
+    "Sinclair Lewis": {
+        "country": "United States",
+        "prize": {
+            "category": "Literature",
+            "years": "1930"
+        }
+    },
+    "Frank B. Kellogg": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1929"
+        }
+    },
+    "Arthur H. Compton": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1927"
+        }
+    },
+    "Charles G. Dawes": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1925"
+        }
+    },
+    "Robert A. Millikan": {
+        "country": "United States",
+        "prize": {
+            "category": "Physics",
+            "years": "1923"
+        }
+    },
+    "Woodrow Wilson": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1919"
+        }
+    },
+    "Theodore W. Richards": {
+        "country": "United States",
+        "prize": {
+            "category": "Chemistry",
+            "years": "1914"
+        }
+    },
+    "Elihu Root": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1912"
+        }
+    },
+    "Theodore Roosevelt": {
+        "country": "United States",
+        "prize": {
+            "category": "Peace",
+            "years": "1906"
+        }
+    },
+    "Lê Đức Thọ": {
+        "country": "Vietnam",
+        "prize": {
+            "category": "Peace",
+            "years": "1973 (declined)"
+        }
+    },
+    "Tawakkol Karman": {
+        "country": "Yemen",
+        "prize": {
+            "category": "Peace",
+            "years": "2011"
+        }
+    }
+}
